@@ -20,3 +20,14 @@ lib installed first：
 
 function:
 	using openni driver, capture the registrated rgb image and depth image, then generate pointcloud.
+	
+	
+Here I use eclipse as IDE, so I will compile cmake file as below:
+	
+	cd ../build	
+	cmake -G"Eclipse CDT4 - Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug ../src 
+	make
+	
+	
+	
+	Enjoy!
