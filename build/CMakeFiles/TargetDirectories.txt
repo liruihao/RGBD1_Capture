@@ -1,0 +1,2 @@
+/home/ruihao/workspace/Ruihao_program/RGBD1_Capture/build/CMakeFiles/Run_openni_test.dir
+/home/ruihao/workspace/Ruihao_program/RGBD1_Capture/build/CMakeFiles/SLAM_Ruihao.dir
